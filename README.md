@@ -1,28 +1,21 @@
 <h1 align="center">Hi 👋, I'm Majo</h1>
 <h3 align="center">QA Engineer | Financial Trading Systems | Java in Progress</h3>
 
----
+👩‍💻 About Me
 
-### 👩‍💻 About Me
+QA Engineer working with large-scale financial trading systems.
+Focused on requirement analysis, structured test case design, functional and regression testing, and defect management.
 
-Quality Assurance Engineer working with large-scale financial trading platforms, supporting complex workflows, multiple users, and high-volume environments.
+I also have experience working in Salesforce CRM environments in customer-facing roles, which gives me strong understanding of user workflows and system behavior.
 
-My work focuses on requirement analysis, structured test case design, functional and regression testing, and defect management.
-
-I also bring strong CRM and customer-facing experience from working in Salesforce environments, which gives me a strategic, user-centered perspective when validating systems.
-
----
-
-### 🔎 Currently
+🔎 Currently
 
 - 📚 Preparing for ISTQB certification  
 - ☕ Strengthening Java fundamentals  
 - 🧠 Expanding technical depth beyond manual QA  
 - 💻 Building small frontend projects to improve development skills  
 
----
-
-### 🛠 Technical Skills
+🛠 Technical Skills
 
 **Testing:**  
 Functional Testing | Regression Testing | Exploratory Testing | Requirement Analysis | Test Case Design  
@@ -36,9 +29,7 @@ Agile | Scrum
 **Development:**  
 Java (in progress) | HTML | CSS | JavaScript  
 
----
-
-### 🌍 Connect with Me
+🌍 Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/majo0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/majo0406" height="30" width="40" /></a>
