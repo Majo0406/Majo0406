@@ -1,22 +1,48 @@
 <h1 align="center">Hi 👋, I'm Majo</h1>
-<h3 align="center">A Frontend developer in training.</h3>
+<h3 align="center">QA Engineer | Financial Trading Systems | Java in Progress</h3>
 
-- 🔭 I’m currently working on [motivational-quote-creator](https://github.com/Majo0406/motivational-quote-creator)
+---
 
-- 🌱 I’m currently learning **Responsive and React.js**
+### 👩‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Majo0406](https://github.com/Majo0406)
+Quality Assurance Engineer working with large-scale financial trading platforms, supporting complex workflows, multiple users, and high-volume environments.
 
-- 💬 Ask me about **HTML, JavaScript, CSS**
+My work focuses on requirement analysis, structured test case design, functional and regression testing, and defect management.
 
-- 📫 How to reach me **moren741@gmail.com**
+I also bring strong CRM and customer-facing experience from working in Salesforce environments, which gives me a strategic, user-centered perspective when validating systems.
 
-- ⚡ Fun fact **I switched from a Computer Science degree to Pure Mathematics, and now I'm a frontend developer—because who needs simplicity in their career choices? 😅😁**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🔎 Currently
+
+- 📚 Preparing for ISTQB certification  
+- ☕ Strengthening Java fundamentals  
+- 🧠 Expanding technical depth beyond manual QA  
+- 💻 Building small frontend projects to improve development skills  
+
+---
+
+### 🛠 Technical Skills
+
+**Testing:**  
+Functional Testing | Regression Testing | Exploratory Testing | Requirement Analysis | Test Case Design  
+
+**Tools:**  
+JIRA | SQL | SSH Console  
+
+**Methodology:**  
+Agile | Scrum  
+
+**Development:**  
+Java (in progress) | HTML | CSS | JavaScript  
+
+---
+
+### 🌍 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/majo0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/majo0406" height="30" width="40" /></a>
-<a href="https://instagram.com/@majo0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@majo0406" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/majo0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/majo0406" height="30" width="40" /></a>
+<a href="https://instagram.com/majo0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@majo0406" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/majo castillo #quetelodigoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="majo castillo #quetelodigoyo" height="30" width="40" /></a>
 </p>
 
